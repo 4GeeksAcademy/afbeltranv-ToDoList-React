@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+ul{
+    padding:0%;
+}
+li{
+    border-color: grey;    
+    border: 1px solid;
+    list-style-type: none;
+    border-radius: 5px;
+}
+input{
+    border: none;
+    width: 100%;
+    border-radius: 5px;
+}
