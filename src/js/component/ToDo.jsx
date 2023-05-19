@@ -7,7 +7,7 @@ const ToDo=()=>{
 return(
     <>
     <div className="container">
-    <h1>ToDo List {ToDoTask}</h1>
+    <h1>ToDo List</h1>
     <ul>
         <li><input 
                 type="text" 
